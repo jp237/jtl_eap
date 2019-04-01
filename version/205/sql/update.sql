@@ -1,0 +1,1 @@
+ALTER TABLE `xplugin_jtl_eap_zahlungsarten` ADD `nOptIn` INT( 1 ) NOT NULL DEFAULT '0';
